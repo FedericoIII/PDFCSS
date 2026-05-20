@@ -1,9 +1,0 @@
-# Test for PDF CSS code
-@page {
-  size: A4; /* Defines standard page size */
-  margin: 0; /* Removes default browser margins */
-}
-
-body {
-  zoom: 0.8; /* Scales content down to fit more on a page before PDF generation */
-}
